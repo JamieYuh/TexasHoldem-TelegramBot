@@ -1,1 +1,6 @@
-# TexasHoldem-TelegramBot
+# Texas Hold'em Telegram Bot
+這是一個基於Python開發的簡易版德州撲克遊戲機器人，支援1名玩家與3名電腦對手進行即時博弈。
+
+### 核心技術亮點
+- **非同步事件驅動：** 使用 `python-telegram-bot`處理高響應性的訊息交換。
+- **狀態機管理：** 實作五階段有限狀態機 (FSM)，嚴謹控制遊戲邏輯流。
